@@ -1,16 +1,22 @@
-## Hi there 👋
+📊 Analista de Dados em formação
 
-<!--
-**lsantana99/lsantana99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudando:
+- SQL
+- Power BI
+- Modelagem de Dados
+- Limpeza de Dados
 
-Here are some ideas to get you started:
+## Tecnologias
+- SQL
+- Power BI
+- Excel
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+Transformar dados em informações estratégicas para tomada de decisão.
+
+## Projetos em desenvolvimento
+- Dashboard Logístico
+- Análise de Expedição
+- KPIs Operacionais
+- Estudos SQL
